@@ -205,3 +205,6 @@ fabric.properties
 z_test*/
 data*/
 #สำหรับทดสอบโค้ดเฉพาะ
+
+#ใช้เป็น ที่เก็บ credential
+pipeline.conf
